@@ -1,0 +1,23 @@
+name,r,g,b
+Background,0,0,0
+Aero plane,128,0,0
+Bicycle,0,128,0
+Bird,128,128,0
+Boat,0,0,128
+Bottle,128,0,128
+Bus,0,128,128
+Car,128,128,128
+Cat,64,0,0
+Chair,192,0,0
+Cow,64,128,0
+Dining table,192,128,0
+Dog,64,0,128
+Horse,192,0,128
+Motorbike,64,128,128
+Person,192,128,128
+Potted plant,0,64,0
+Sheep,128,64,0
+Sofa,0,192,0
+Train,128,192,0
+Tv/Monitor,0,64,128
+
